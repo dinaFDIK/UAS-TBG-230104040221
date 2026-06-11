@@ -165,9 +165,20 @@ Berdasarkan hasil simulasi data dan proses Machine Learning, sistem mampu mengid
 Tambahkan screenshot berikut pada repository:
 
 1. Screenshot terminal saat proses Parquet berhasil dibuat.
+   <img width="1920" height="1008" alt="Screenshot 2026-06-11 115337" src="https://github.com/user-attachments/assets/cd3c0302-baea-4d63-bc6a-5016fe02d5ac" />
 2. Screenshot folder output Parquet.
+   <img width="1920" height="1008" alt="Screenshot 2026-06-11 123601" src="https://github.com/user-attachments/assets/7d529e0c-bb54-4f5a-8771-6c3568a2b483" />
+
 3. Screenshot dashboard Streamlit.
+   <img width="1920" height="1008" alt="Screenshot 2026-06-11 121712" src="https://github.com/user-attachments/assets/7931360c-68a6-4f0f-96ae-e1c1f92eee71" />
+
 4. Screenshot grafik prediksi pengunjung.
+   <img width="1920" height="1008" alt="Screenshot 2026-06-11 115146" src="https://github.com/user-attachments/assets/eea08c46-964d-48ce-9bcf-e410c0e40747" />
+   <img width="1919" height="666" alt="Screenshot 2026-06-11 115201" src="https://github.com/user-attachments/assets/91bee666-a1a4-41ca-b4f5-63cc45bc7823" />
+   <img width="1920" height="1008" alt="Screenshot 2026-06-11 115215" src="https://github.com/user-attachments/assets/44bd5e62-515a-462a-9af3-dcc950d8fd96" />
+   <img width="1919" height="629" alt="Screenshot 2026-06-11 115226" src="https://github.com/user-attachments/assets/8a26a389-4cdb-47cb-a6f9-ab3d147f8241" />
+   <img width="1920" height="1008" alt="Screenshot 2026-06-11 115236" src="https://github.com/user-attachments/assets/c1d87607-01a9-4b6a-af0f-034e91ecbc1f" />
+<img width="1919" height="650" alt="Screenshot 2026-06-11 115253" src="https://github.com/user-attachments/assets/aad26e84-ca5e-4437-be26-f33e0ab12a34" />
 
 ---
 
